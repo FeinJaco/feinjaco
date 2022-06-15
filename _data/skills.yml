@@ -1,36 +1,16 @@
-header: Say something about what you're good at
+header: Iterating my way to success
 
-subheader: Give some more context
+subheader: I know when my work isn't done and how to get it there. I won't give up until I see it through.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Eye for Detail
+    description: Carefully identifying problems great and small that others overlook
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Direct Support
+    description: Providing realistic feedback while prioritizing a comfortable and collaborative work environment
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Perseverance
+    description: Working persistently to overcome each obstacle on the journey to producing a great final product
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
-
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D

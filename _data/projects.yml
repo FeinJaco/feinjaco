@@ -1,13 +1,7 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Poker Bluff Detection Dataset Based on Facial Analysis
+  description: A dataset generated using face detection, ArcFace face recognition, image processing, OCR, and Monte Carlo simulations and validated with CNN machine learning. This published work was presented by my team at ICIAP 2021 in Italy.
 
-- name: Project 2
-  description: A few sentences describing your project.
-
-- name: Project 3
-  description: A few sentences describing your project.
-
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Asset Database Webscraper
+  description: An asset management application developed for Albany County. It uses HTML to automatically download data on a list of assets and was developed in Python with a QT GUI.
